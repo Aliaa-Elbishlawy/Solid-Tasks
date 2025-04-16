@@ -1,0 +1,17 @@
+C:\Users\aliaa\source\repos\solid\D02App1\bin\Debug\net8.0\D02App1.exe
+C:\Users\aliaa\source\repos\solid\D02App1\bin\Debug\net8.0\D02App1.deps.json
+C:\Users\aliaa\source\repos\solid\D02App1\bin\Debug\net8.0\D02App1.runtimeconfig.json
+C:\Users\aliaa\source\repos\solid\D02App1\bin\Debug\net8.0\D02App1.dll
+C:\Users\aliaa\source\repos\solid\D02App1\bin\Debug\net8.0\D02App1.pdb
+C:\Users\aliaa\source\repos\solid\D02App1\bin\Debug\net8.0\SimpleInjector.dll
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.csproj.AssemblyReference.cache
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.AssemblyInfoInputs.cache
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.AssemblyInfo.cs
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.csproj.CoreCompileInputs.cache
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.csproj.Up2Date
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.dll
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\refint\D02App1.dll
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.pdb
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\D02App1.genruntimeconfig.cache
+C:\Users\aliaa\source\repos\solid\D02App1\obj\Debug\net8.0\ref\D02App1.dll
